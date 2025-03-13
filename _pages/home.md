@@ -10,7 +10,7 @@ permalink: /
 ## Welcome!
 
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/group_2304.jpg" width="100%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/group_2503.jpg" width="100%">
 </center>
 <p></p>
 Welcome to our group's page! Feel free to take a look around. The site is still under construction; so check back for new content soon!
