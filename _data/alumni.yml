@@ -1,9 +1,10 @@
-- name: Tzu-Hsuan (Sandy) Chen
-  photo: sandy.jpeg
-  duration: 2022 -- 2023
-  info: MS Computational Materials Science and Engineering
-  linkedin: https://www.linkedin.com/in/tzuhsuan-chen
-  now: Intel
+- name: Xiaoxiao "Lory" Wang
+  photo: LoryW.jpg
+  duration: 2022 -- 2025
+  info: PhD Chemical Engineering
+  email: xiaoxia3@andrew.cmu.edu
+  linkedin: https://www.linkedin.com/in/xiaoxiao-wang-lory/
+  now: Lila Sciences
 
 - name: Hintsa Fisseha Hishe 
   photo: Hintsa.jpg
@@ -12,3 +13,11 @@
   email: hhishe@andrew.cmu.edu	
   linkedin: https://www.linkedin.com/in/ee-hintsa 
   now: PhD student, Duke University
+
+- name: Tzu-Hsuan (Sandy) Chen
+  photo: sandy.jpeg
+  duration: 2022 -- 2023
+  info: MS Computational Materials Science and Engineering
+  linkedin: https://www.linkedin.com/in/tzuhsuan-chen
+  now: Intel
+
