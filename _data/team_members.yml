@@ -53,6 +53,17 @@
   cv:
   scholar:
 
+- name: Van Tran
+  photo: Van.jpg
+  info: PhD Materials Science and Engineering
+  email: vdtran@cmu.edu
+  linkedin: https://www.linkedin.com/in/van-d-tran-551734201/
+  researchgate:
+  website:
+  twitter:
+  cv:
+  scholar:
+
 - name: "This could be you!"
   photo: roadrunner.jpeg
   info: See <a href="/vacancies.html">openings</a> for more info
